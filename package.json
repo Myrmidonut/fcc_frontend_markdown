@@ -17,7 +17,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://myrmidonut.github.io/fcc_frontend_markdown",
+  "homepage": "https://Myrmidonut.github.io/fcc_frontend_markdown",
   "devDependencies": {
     "gh-pages": "^2.0.0"
   }
