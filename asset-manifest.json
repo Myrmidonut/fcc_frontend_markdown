@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.3dcb9aee.css",
-  "main.css.map": "static/css/main.3dcb9aee.css.map",
-  "main.js": "static/js/main.6c676cb0.js",
-  "main.js.map": "static/js/main.6c676cb0.js.map"
+  "main.css": "/fcc_frontend_markdown/static/css/main.36a9a22f.chunk.css",
+  "main.js": "/fcc_frontend_markdown/static/js/main.382655fd.chunk.js",
+  "main.js.map": "/fcc_frontend_markdown/static/js/main.382655fd.chunk.js.map",
+  "static/js/1.d45cbea4.chunk.js": "/fcc_frontend_markdown/static/js/1.d45cbea4.chunk.js",
+  "static/js/1.d45cbea4.chunk.js.map": "/fcc_frontend_markdown/static/js/1.d45cbea4.chunk.js.map",
+  "runtime~main.js": "/fcc_frontend_markdown/static/js/runtime~main.acee0663.js",
+  "runtime~main.js.map": "/fcc_frontend_markdown/static/js/runtime~main.acee0663.js.map",
+  "static/css/main.36a9a22f.chunk.css.map": "/fcc_frontend_markdown/static/css/main.36a9a22f.chunk.css.map",
+  "index.html": "/fcc_frontend_markdown/index.html",
+  "precache-manifest.ce6740a1aa37d707c85aa8b800403e69.js": "/fcc_frontend_markdown/precache-manifest.ce6740a1aa37d707c85aa8b800403e69.js",
+  "service-worker.js": "/fcc_frontend_markdown/service-worker.js"
 }
