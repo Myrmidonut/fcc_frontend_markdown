@@ -5,6 +5,8 @@ A GitHub style markdown previewer for writing readme files and checking the outp
 
 This project is part of freeCodeCamps Frontend Libraries certificate.
 
+***
+
 ## Project Requirements
 * There is a textarea element with a corresponding id="editor".
 * There is an element with a corresponding id="preview".
@@ -15,12 +17,18 @@ This project is part of freeCodeCamps Frontend Libraries certificate.
 * Optional Bonus (you do not need to make this test pass): When clicking a link rendered by my markdown previewer, the link is opened up in a new tab (HINT: read the Marked.js docs for this one!).
 * Optional Bonus (you do not need to make this test pass): The markdown previewer interprets carriage returns and renders them as br (line break) elements.
 
+***
+
 ## Project Data
 Marked library:  
 https://cdnjs.com/libraries/marked
 
+***
+
 ## Final Project
 https://myrmidonut.github.io/fcc_frontend_markdown
+
+***
 
 ## Preview Images
 ### Main Screen:
