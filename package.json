@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/marked": "^0.4.1",
-    "marked": "^0.5.0",
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
+    "@types/marked": "^0.6.1",
+    "marked": "^0.6.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
     "react-scripts": "^2.1.5"
   },
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://Myrmidonut.github.io/fcc_frontend_markdown",
   "devDependencies": {
-    "gh-pages": "^2.0.0"
+    "gh-pages": "^2.0.1"
   },
   "browserslist": [
     ">0.2%",
