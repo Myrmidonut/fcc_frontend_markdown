@@ -8,29 +8,26 @@ body {
   color: white;
 }
 
-#editor {
+#editor, #preview {
   width: 700px;
   max-width: 90%;
+
   height: 420px;
   display: block;
+
   margin: 20px auto;
   box-sizing: border-box;
   box-shadow: 3px 3px 20px;
   border-radius: 2px;
   padding: 10px;
+
   font-family: 'Lato', sans-serif;
+  background-color: white;
+  color: black;
 }
 
 #preview {
-  background-color: white;
-  width: 700px;
-  max-width: 90%;
-  margin: 20px auto;
-  padding: 2px;
-  box-sizing: border-box;
-  box-shadow: 3px 3px 20px;
-  border-radius: 2px;
-  padding: 10px;
+  height: initial;
 }
 
 #preview img {
