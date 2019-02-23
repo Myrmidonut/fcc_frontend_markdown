@@ -5,8 +5,8 @@
   "dependencies": {
     "@types/marked": "^0.6.1",
     "marked": "^0.6.1",
-    "react": "^16.8.2",
-    "react-dom": "^16.8.2",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
     "react-scripts": "^2.1.5"
   },
   "scripts": {
